@@ -1,0 +1,10 @@
+C:\Users\cahyo\source\repos\XIRPL7_Cahyo Susilo_Pro-Pil_KasirApp\XIRPL7_Cahyo Susilo_Pro-Pil_KasirApp\bin\Debug\XIRPL7_Cahyo Susilo_Pro-Pil_KasirApp.exe.config
+C:\Users\cahyo\source\repos\XIRPL7_Cahyo Susilo_Pro-Pil_KasirApp\XIRPL7_Cahyo Susilo_Pro-Pil_KasirApp\bin\Debug\XIRPL7_Cahyo Susilo_Pro-Pil_KasirApp.exe
+C:\Users\cahyo\source\repos\XIRPL7_Cahyo Susilo_Pro-Pil_KasirApp\XIRPL7_Cahyo Susilo_Pro-Pil_KasirApp\bin\Debug\XIRPL7_Cahyo Susilo_Pro-Pil_KasirApp.pdb
+C:\Users\cahyo\source\repos\XIRPL7_Cahyo Susilo_Pro-Pil_KasirApp\XIRPL7_Cahyo Susilo_Pro-Pil_KasirApp\obj\Debug\XIRPL7_Cahyo Susilo_Pro-Pil_KasirApp.csproj.AssemblyReference.cache
+C:\Users\cahyo\source\repos\XIRPL7_Cahyo Susilo_Pro-Pil_KasirApp\XIRPL7_Cahyo Susilo_Pro-Pil_KasirApp\obj\Debug\XIRPL7_Cahyo_Susilo_Pro_Pil_KasirApp.Form1.resources
+C:\Users\cahyo\source\repos\XIRPL7_Cahyo Susilo_Pro-Pil_KasirApp\XIRPL7_Cahyo Susilo_Pro-Pil_KasirApp\obj\Debug\XIRPL7_Cahyo_Susilo_Pro_Pil_KasirApp.Properties.Resources.resources
+C:\Users\cahyo\source\repos\XIRPL7_Cahyo Susilo_Pro-Pil_KasirApp\XIRPL7_Cahyo Susilo_Pro-Pil_KasirApp\obj\Debug\XIRPL7_Cahyo Susilo_Pro-Pil_KasirApp.csproj.GenerateResource.cache
+C:\Users\cahyo\source\repos\XIRPL7_Cahyo Susilo_Pro-Pil_KasirApp\XIRPL7_Cahyo Susilo_Pro-Pil_KasirApp\obj\Debug\XIRPL7_Cahyo Susilo_Pro-Pil_KasirApp.csproj.CoreCompileInputs.cache
+C:\Users\cahyo\source\repos\XIRPL7_Cahyo Susilo_Pro-Pil_KasirApp\XIRPL7_Cahyo Susilo_Pro-Pil_KasirApp\obj\Debug\XIRPL7_Cahyo Susilo_Pro-Pil_KasirApp.exe
+C:\Users\cahyo\source\repos\XIRPL7_Cahyo Susilo_Pro-Pil_KasirApp\XIRPL7_Cahyo Susilo_Pro-Pil_KasirApp\obj\Debug\XIRPL7_Cahyo Susilo_Pro-Pil_KasirApp.pdb
